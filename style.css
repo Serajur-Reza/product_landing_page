@@ -1,0 +1,49 @@
+
+.container{
+    margin-bottom: 100px;
+}
+
+.nav-item{
+    font-weight: bold;
+}
+
+.car-bg, #subscribe{
+    background-color: rgb(147, 142, 221);
+    border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.products-container{
+    text-align: center;
+}
+
+.pale-order img{
+    width:100%;
+}
+
+.large-image img,
+.short-image {
+    padding: 40px;
+    background-color: whitesmoke;
+    margin: 10px;
+    border-radius: 5px 5px 30px 5px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+#subscribe{
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+
+footer{
+    text-align: center;
+}
